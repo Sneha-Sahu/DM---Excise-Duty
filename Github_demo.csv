@@ -3,3 +3,7 @@ Year_Location,Year,LocationAbbr,LocationDesc,Data_Value,Age,State_Tax
 2006MD,2006,MD,Maryland,20.1,25 to 44 Years,1
 2006MD,2006,MD,Maryland,19,45 to 64 Years,1
 2006MD,2006,MD,Maryland,18.7,18 to 24 Years,1
+2001AL,2001,AL,Alabama,23.2,45 to 64 Years,0.165
+2001AL,2001,AL,Alabama,25.1,18 to 24 Years,0.165
+2001AL,2001,AL,Alabama,9,65 Years and Older,0.165
+2006AL,2006,AL,Alabama,9.7,65 Years and Older,0.425
